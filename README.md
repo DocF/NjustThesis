@@ -2,7 +2,7 @@
 
 Thesis  Template for Bachelor of Sci & Eng 
 
-非官方版南京理工大学大学本科毕设（理工类）LaTeX模板。
+非官方版南京理工大学本科毕设（理工类）LaTeX模板。
 
 使用方法：
 
